@@ -1,0 +1,9 @@
+[submodule "desktop"]
+	path = desktop
+	url = https://github.com/temptalk/TempTalkDesktop.git
+[submodule "android"]
+	path = android
+	url = https://github.com/temptalk/TempTalkAndroid.git
+[submodule "ios"]
+	path = ios
+	url = https://github.com/temptalk/TempTalkIOS.git
